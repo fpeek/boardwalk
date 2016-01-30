@@ -1,7 +1,7 @@
-AES67/AES70
+Arista
 =====
 
-Open-source implementation of AES67, a standard for audio-over-IP interoperability. 
+Open-source implementation of AES67, a standard for audio-over-IP interoperability.
 See the <a href="http://www.aes.org/publications/standards/search.cfm?docID=96" target="_blank">Audio Engineering Society</a> and <a href="http://en.wikipedia.org/wiki/AES67" target ="_blank">Wikipedia</a> for details.
 
 Discovery and control of network devices will be implemented according to AES70 :<br/>
