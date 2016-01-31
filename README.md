@@ -1,4 +1,4 @@
-Arista
+Boardwalk
 =====
 
 Open-source Network Audio System
